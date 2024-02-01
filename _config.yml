@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Surabhi Biyani"
+title                    : "Surabhi C. Biyani"
 title_separator          : "-"
 name                     : &name "Surabhi C. Biyani"
 description              : &description "PhD Student in the Department of Atmospheric and Oceanic Sciences at UCLA"
@@ -102,7 +102,7 @@ author:
   instagram        :
   # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/surabhi-biyani-6b241a130/"
   orcid            : "https://orcid.org/0000-0002-9753-9947"
   pinterest        :
   soundcloud       :
