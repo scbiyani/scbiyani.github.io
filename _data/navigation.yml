@@ -2,14 +2,20 @@
 main:
   - title: "Projects"
     url: /projects/
+    
   - title: "Publications"
-    url: /publications/
+    # url: /publications/
+    url: "https://scholar.google.com/citations?user=nTzKCWgAAAAJ&hl=en"
+    
   - title: "Presentations"
     url: /presentations/
+    
   - title: "Teaching"
     url: /teaching/
+    
   - title: "Climate Justice"
     url: /cj/
+    
   - title: "CV"
     url: /cv/
     
