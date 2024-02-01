@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-See url:"https://climatejusticecollective.my.canva.site"
+[UCLA Climate Justice Collective](https://climatejusticecollective.my.canva.site)
